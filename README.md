@@ -1,4 +1,4 @@
-# Project test
+# Project GO_BE_v1
 
 One Paragraph of project description goes here
 
